@@ -1,8 +1,0 @@
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Release\clienteForm.csproj.GenerateResource.Cache
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
-D:\copia\docencia\SO\SocketsenC\EjercicioParaClase\pruebaSockets\cliente\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
